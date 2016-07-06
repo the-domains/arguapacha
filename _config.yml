@@ -1,0 +1,28 @@
+name: arguapacha
+favicon: null
+layout_spectrum: 0.8293602468911558
+typography_spectrum: 0.31710366741754115
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.41308173653669655
+  lightness: 0.751576274400577
+  saturation: 0.9505864228121936
+  rhythmicContrast: 0.10614601639099419
+purpose: []
