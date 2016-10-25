@@ -1,19 +1,4 @@
-name: arguapacha
-favicon: null
-layout_spectrum: 0.8293602468911558
 typography_spectrum: 0.31710366741754115
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,27 @@ color:
   lightness: 0.751576274400577
   saturation: 0.9505864228121936
   rhythmicContrast: 0.10614601639099419
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8293602468911558
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Andrés
+  email: arguapacha@acm.org
+  url: www.arguapacha.com
+name: arguapacha
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: The Yawner Corner
+content: []
+description: Why be bothered with boredom when there is writing?
 purpose: []
