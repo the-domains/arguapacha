@@ -1,6 +1,6 @@
 ---
 title: Wholeness and the Implicate Order
-dateModified: '2018-03-26T13:05:57.917Z'
+dateModified: '2018-03-26T13:06:07.918Z'
 publisher: {}
 author:
   - name: Photo by Linda Xu on Unsplash
@@ -11,10 +11,12 @@ description: >-
   David Bohm shows an interesting view of the way the universe interacts,
   merging his studies on theoretical physics and Eastern philosophy.
 via: {}
-datePublished: '2018-03-26T13:05:58.831Z'
+datePublished: '2018-03-26T13:06:09.128Z'
 sourcePath: _posts/2018-03-26-wholeness-and-the-implicate-order.md
 starred: false
 datePublishedOriginal: '2018-03-26T12:49:39.509Z'
+hasPage: true
+url: wholeness-and-the-implicate-order/index.html
 _type: Article
 _context: 'http://schema.org'
 
@@ -38,3 +40,5 @@ To this wholeness, which Bohm calls holomovement, gives us the ability to feel m
 As an ever-amateur Taoist, it is a great pleasure to read about the view of a great scientist who took interest in philosophy, and Eastern philosophy for that matter.
 
 There are many concepts in Bohm's viewpoint that I think are worth a dutiful read.
+
+<article style=""><h1>Wholeness and the Implicate Order</h1><p>David Bohm was one of the foremost scientific thinkers and philosophers of our time. Although deeply influenced by Einstein, he was also,...</p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385055758i/204523._UY630_SR1200,630_.jpg" /></article>
