@@ -1,6 +1,6 @@
 ---
 title: Wholeness and the Implicate Order
-dateModified: '2018-03-26T12:48:44.699Z'
+dateModified: '2018-03-26T13:05:57.917Z'
 publisher: {}
 author:
   - name: Photo by Linda Xu on Unsplash
@@ -11,10 +11,10 @@ description: >-
   David Bohm shows an interesting view of the way the universe interacts,
   merging his studies on theoretical physics and Eastern philosophy.
 via: {}
-datePublished: '2018-03-26T12:49:39.509Z'
+datePublished: '2018-03-26T13:05:58.831Z'
+sourcePath: _posts/2018-03-26-wholeness-and-the-implicate-order.md
 starred: false
 datePublishedOriginal: '2018-03-26T12:49:39.509Z'
-sourcePath: _posts/2018-03-26-wholeness-and-the-implicate-order.md
 _type: Article
 _context: 'http://schema.org'
 
