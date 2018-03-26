@@ -23,13 +23,14 @@ analytics:
 author:
   name: Andrés
   email: arguapacha@acm.org
-  url: www.arguapacha.com
-name: arguapacha
+  url: 'http://www.arguapacha.com'
+name: Yawner Corner
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/30a6e2a1-9992-44ec-bec7-ee622e82e6d2.ico
 title: The Yawner Corner
 content: []
 description: Bothered with Boredom
